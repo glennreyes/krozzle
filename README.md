@@ -4,7 +4,7 @@
 
 <!-- [email]: socials/mail.svg -->
 
-<a href='mailto:christopher.wattaul@gmail.com'>![Outlined email logo.](./socials/email.png) christopher.wattaul@gmail.com</a> <br>
+<a href='mailto:christopher.wattaul@gmail.com'>![Outlined email logo.](/socials/email.png) christopher.wattaul@gmail.com</a> <br>
 <a href='https://www.linkedin.com/in/christopher-wattaul/'>![Outlined linked-in logo.](./socials/linkedin.png) christopher-wattaul</a><br>
 <a href='https://www.github.com/krozzle'>![Outlined github logo.](./socials/github.png) krozzle</a><br>
 <a href='https://www.twitter.com/krozzler'>![Outlined twitter logo.](./socials/twitter.png) krozzler</a><br>
