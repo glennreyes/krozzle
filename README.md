@@ -26,11 +26,11 @@
 - Improving knowledge on React & GraphQL
 - Working on personal projects<br><br>
 
-📖 **Teaching Assistant** at [Upleveled](https://upleveled.io) Web development bootcamp _(Aug 2020 - present)_ <br>
+📖 **Teaching Assistant** at [Upleveled](https://www.upleveled.io) Web development bootcamp _(Aug 2020 - present)_ <br>
 
 - Tutor and mentor on site as well as remote
 - Support students in building web/mobile applications with a variety of frameworks and libraries
-- **_Technologies:_** JavasScript, React, React Native, Gatsby, Next.js, Typescript, Node, PostgreSQL, Express, GraphQL, Apollo, TypeORM, Jest, Cypress, Theme-UI, Git, Docker, WebPack<br><br>
+- **_Technologies:_** JavaScript, React, React Native, Gatsby, Next.js, Typescript, Node, PostgreSQL, Express, GraphQL, Apollo, TypeORM, Jest, Cypress, Theme-UI, Git, Docker, WebPack<br><br>
 
 ## 🦞 Main Projects
 
