@@ -36,7 +36,7 @@
 
 🕹️ **[virtualdojovienna.com](https://github.com/krozzle/virtual-dojo-vienna-typescript)**<br>
 
-- React, Next.js, Typescript, PostgreSQL, Type-GraphQL, TypeORM, Theme-UI<br><br>
+- React, Next.js, Typescript, Node, PostgreSQL, Type-GraphQL, TypeORM, Theme-UI<br><br>
 
 🛋️ **Personal Website**<br>
 
