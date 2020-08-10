@@ -30,13 +30,13 @@
 
 - Tutor and mentor on site as well as remote
 - Support students in building web/mobile applications with a variety of frameworks and libraries
-- **_Technologies:_** JavaScript, React, React Native, Gatsby, Next.js, Typescript, Node, PostgreSQL, Express, GraphQL, Apollo, TypeORM, Jest, Cypress, Theme-UI, Git, Docker, WebPack<br><br>
+- **_Technologies:_** JavaScript, React, React Native, Gatsby, Next.js, Typescript, Node, PostgreSQL, Express, GraphQL, Apollo, TypeORM, Theme-UI, Jest, Cypress, Git, Docker, WebPack<br><br>
 
 ## 🦞 Main Projects
 
 🕹️ **[virtualdojovienna.com](https://github.com/krozzle/virtual-dojo-vienna-typescript)**<br>
 
-- React, Next.js, Typescript, PostgreSQL, GraphQL, TypeORM, Theme-UI<br><br>
+- React, Next.js, Typescript, PostgreSQL, Type-GraphQL, TypeORM, Theme-UI<br><br>
 
 🛋️ **Personal Website**<br>
 
@@ -73,7 +73,7 @@ Providing a home for fighting game enthusiasts in Vienna. The Club also acts as 
 **Bachelor of Science** in Nursing Sciences and Management<br>
 [UMIT - University of Health Sciences, Medical Informatics and Technology](https://www.umit-tirol.at) - Vienna, Austria _(2011 - 2014)_<br>
 
-**Diplomas** for Nursing and Critical Care Nursing<br>
+**Diplomas** in Nursing and Critical Care Nursing<br>
 [Wiener Gesundheitsverbund (Vienna's public health care system)](https://gesundheitsverbund.at/) - Vienna, Austria _(Sep 2007 & Jul 2018)_<br><br>
 
 ## 📖 Testimonials
