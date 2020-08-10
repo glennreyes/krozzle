@@ -4,13 +4,13 @@
 
 <!-- [email]: socials/mail.svg -->
 
-<a href='mailto:christopher.wattaul@gmail.com'><img src="https://user-images.githubusercontent.com/47693091/89641866-eff7e380-d8b2-11ea-9ede-4f5da405edea.png" width="20" height="20" alt="Email"> christopher.wattaul@gmail.com</a><br>
+<a href='mailto:christopher.wattaul@gmail.com'><img src="https://user-images.githubusercontent.com/47693091/89641866-eff7e380-d8b2-11ea-9ede-4f5da405edea.png" width="16" height="16" alt="Email"> christopher.wattaul@gmail.com</a><br>
 
-<a href='https://www.github.com/krozzle'><img src="https://user-images.githubusercontent.com/47693091/89641858-ee2e2000-d8b2-11ea-95fd-175d14f65d6a.png" width="20" height="20" alt="Github"> @krozzle</a><br>
+<a href='https://www.github.com/krozzle'><img src="https://user-images.githubusercontent.com/47693091/89641858-ee2e2000-d8b2-11ea-95fd-175d14f65d6a.png" width="16" height="16" alt="Github"> @krozzle</a><br>
 
-<a href='https://www.linkedin.com/in/christopher-wattaul/'><img src="https://user-images.githubusercontent.com/47693091/89641863-ef5f4d00-d8b2-11ea-8245-9938757cb174.png" width="20" height="20" alt="LinkedIn"> @christopher-wattaul</a><br>
+<a href='https://www.linkedin.com/in/christopher-wattaul/'><img src="https://user-images.githubusercontent.com/47693091/89641863-ef5f4d00-d8b2-11ea-8245-9938757cb174.png" width="16" height="16" alt="LinkedIn"> @christopher-wattaul</a><br>
 
-<a href='https://www.twitter.com/krozzler'><img src="https://user-images.githubusercontent.com/47693091/89641868-eff7e380-d8b2-11ea-889c-fbc4de921797.png" width="20" height="20" alt="Twitter"> @krozzler</a><br>
+<a href='https://www.twitter.com/krozzler'><img src="https://user-images.githubusercontent.com/47693091/89641868-eff7e380-d8b2-11ea-889c-fbc4de921797.png" width="16" height="16" alt="Twitter"> @krozzler</a><br>
 
 <!-- <a href='mailto:christopher.wattaul@gmail.com'>![Outlined email logo.](./socials/email.png) christopher.wattaul@gmail.com</a> <br>
 <a href='https://www.linkedin.com/in/christopher-wattaul/'>![Outlined linked-in logo.](./socials/linkedin.png) christopher-wattaul</a><br>
