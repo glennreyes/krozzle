@@ -26,7 +26,7 @@
 - Improving knowledge on React & GraphQL
 - Working on personal projects<br><br>
 
-📖 **Teaching Assistant** at [Upleveled](https://www.upleveled.io) Web development bootcamp _(Aug 2020 - present)_ <br>
+📖 **Teaching Assistant** at [UpLeveled](https://www.upleveled.io) Web development bootcamp _(Aug 2020 - present)_ <br>
 
 - Tutor and mentor on site as well as remote
 - Support students in building web/mobile applications with a variety of frameworks and libraries
@@ -64,7 +64,7 @@ Providing a home for fighting game enthusiasts in Vienna. The Club also acts as 
 
 ## 🧮 Education
 
-**12-week Coding Bootcamp** focused on full-stack JavaScript<br>
+**12-week Coding Bootcamp** focused on full stack JavaScript<br>
 [UpLeveled](https://www.upleveled.io/) - Vienna, Austria _(May 2020 - July 2020)_ <br>
 
 <a href='https://upleveled.io'><img src="https://user-images.githubusercontent.com/47693091/89646352-ea52cb80-d8bb-11ea-85a4-dc094982a14a.jpg" height="720" width="540" alt="krozzle working on his laptop at the upleveled.io coding bootcamp"></a>
