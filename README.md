@@ -26,23 +26,23 @@
 - Improving knowledge on React & GraphQL
 - Working on personal projects<br><br>
 
-📖 **Teaching Assistant** at [UpLeveled](https://www.upleveled.io) Web development bootcamp _(Aug 2020 - present)_ <br>
+📖 **Teaching Assistant** at [UpLeveled](https://www.upleveled.io) Web development bootcamp _(Aug 2020 - Nov 2020)_ <br>
 
 - Tutor and mentor on site as well as remote
 - Support students in building web/mobile applications with a variety of frameworks and libraries
 - **_Technologies:_** JavaScript, React, React Native, Gatsby, Next.js, Typescript, Node, PostgreSQL, Express, GraphQL, Apollo, TypeORM, Theme-UI, Jest, Cypress, Git, Docker, WebPack<br><br>
 
-## 🦞 Main Projects
+## 🦞 Pet Projects
 
 🕹️ **[virtualdojovienna.com](https://github.com/krozzle/virtual-dojo-vienna-typescript)**<br>
 
 - React, Next.js, Typescript, Node, PostgreSQL, Type-GraphQL, TypeORM, Theme-UI<br><br>
 
-🛋️ **Personal Website**<br>
+🛋️ [**Personal Website**](https://krozzler.herokuapp.com/)<br>
 
-- React, Gatsby
+- React, Next.js
 
-## 🌏 Side Projects
+## 🌏 Future Side Projects
 
 🍪 **Recipe app for my sister - starting phase will be primarily focusing on baking recipes and tutorials**<br>
 
@@ -51,11 +51,6 @@
 - Find a combination of technologies suitable for this app
   <br><br>
 
-🩺 **Blog site containing a collection of published scientific data on COVID-19**<br>
-
-- Research capable combo of tech to use
-- Become more knowledgeable on software architecture
-- Treat accessibility as part of the foundation<br><br>
 
 ## 🦾 Stuff I Like
 
@@ -78,4 +73,5 @@ Providing a home for fighting game enthusiasts in Vienna. The Club also acts as 
 
 ## 📖 Testimonials
 
-"Chris can turn static ideas into beautiful interactive user interfaces really fast and clean. Super motivated and energized, a great developer to collaborate with!" — Glenn Reyes (Independent Software Engineer)<br>
+> "Chris can turn static ideas into beautiful interactive user interfaces really fast and clean. Super motivated and energized, a great developer to collaborate with!" — Glenn Reyes (Independent Software Engineer)<br><br>
+> "Chris has a keen eye for design and is always curious to seek new ways to improve an application. Always available to help, incredibly reliable and committed." — Antje Enzi (Co-Founder [UpLeveled.io](https://upleveled.io))<br>
