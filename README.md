@@ -73,5 +73,5 @@ Providing a home for fighting game enthusiasts in Vienna. The Club also acts as 
 
 ## 📖 Testimonials
 
-"Chris can turn static ideas into beautiful interactive user interfaces really fast and clean. Super motivated and energized, a great developer to collaborate with!" — Glenn Reyes (Independent Software Engineer)<br><br>
+"Chris can turn static ideas into beautiful interactive user interfaces really fast and clean. Super motivated and energized, a great developer to collaborate with!" — [Glenn Reyes](https://glennreyes.com) (Independent Software Engineer)<br><br>
 "Chris has a keen eye for design and is always curious to seek new ways to improve an application. Always available to help, incredibly reliable and committed." — Antje Enzi (Co-Founder [UpLeveled.io](https://upleveled.io))<br><br>
